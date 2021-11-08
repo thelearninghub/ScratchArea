@@ -9,8 +9,8 @@ import java.util.Random;
   * goats, behind the 3rd is a car.
   * 
   * The player is urged to choose a door. Once he has done so, the host, who knows what lies behind
-  * all doors opens a second door revealing a goat. At this point the contestent is left with
-  * his choice and the remaining door. 
+  * all doors opens one of the doors (not the contestants choice) revealing a goat. At this 
+  * point the contestent is left with his choice and the remaining door, one has a goat, the other a car. 
   * 
   * The crux of the problem is whether the contestant, now knowing which door contains the first 
   * goat, should change their guess.
